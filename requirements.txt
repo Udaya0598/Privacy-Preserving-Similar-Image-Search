@@ -1,0 +1,10 @@
+pycryptodome
+flask
+flask-cors
+opencv-python
+numpy
+binascii
+nearpy
+redis
+pandas
+seaborn
